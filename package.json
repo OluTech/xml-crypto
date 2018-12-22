@@ -1,0 +1,120 @@
+{
+  "_args": [
+    [
+      {
+        "escapedName": "xml-crypto",
+        "name": "xml-crypto",
+        "raw": "xml-crypto",
+        "rawSpec": "",
+        "scope": null,
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/media/sf_zav"
+    ]
+  ],
+  "_from": "xml-crypto@latest",
+  "_hasShrinkwrap": false,
+  "_id": "xml-crypto@1.0.2",
+  "_inCache": true,
+  "_location": "/xml-crypto",
+  "_nodeVersion": "9.11.1",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/xml-crypto_1.0.2_1541682176670_0.8092067634467863"
+  },
+  "_npmUser": {
+    "email": "alwyn.tan@gmail.com",
+    "name": "lonerifle"
+  },
+  "_npmVersion": "5.6.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "escapedName": "xml-crypto",
+    "name": "xml-crypto",
+    "raw": "xml-crypto",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/xml-crypto/-/xml-crypto-1.0.2.tgz",
+  "_shasum": "248df860b1e3f7326e61bcbd00c234886b0d6e3b",
+  "_shrinkwrap": null,
+  "_spec": "xml-crypto",
+  "_where": "/media/sf_zav",
+  "author": {
+    "email": "yaronn01@gmail.com",
+    "name": "Yaron Naveh",
+    "url": "http://webservices20.blogspot.com/"
+  },
+  "bugs": {
+    "url": "https://github.com/yaronn/xml-crypto/issues"
+  },
+  "contributors": [
+    {
+      "email": "LoneRifle@users.noreply.github.com",
+      "name": "LoneRifle"
+    }
+  ],
+  "dependencies": {
+    "xmldom": "0.1.27",
+    "xpath.js": ">=0.0.3"
+  },
+  "description": "Xml digital signature and encryption library for Node.js",
+  "devDependencies": {
+    "nodeunit": "^0.11.3"
+  },
+  "directories": {
+    "lib": "./lib"
+  },
+  "dist": {
+    "fileCount": 14,
+    "integrity": "sha512-bDQkgu1yuwl+QoJbi4GBP9MWxpmYkXc8a9iSHbZ7lKqcxzGlDqMRugcl7qK7TsMI0ydU66GG8/eLNvRUk5T2fw==",
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJb5DQBCRA9TVsSAnZWagAArscP+wUxYip9GQXvBRiTCGrE\nnDhqwTZMPLEeC9f0K6xAPBg43dGqzamS5kbybvbPgsH58gz8nuArkE7ejBvg\nwPcPeYfdPLxNKFvWail0OWzNQnqRoUEBjUOMwyNERePyhEn6sRq40XC5Netp\n7Qq3umdynZ5eCkvbYi/uTTDk8NDZdEu8UAhU1rO+0kDRF3m03UHDCPUSz+IW\nuwnkYLEqYnBCvrxqHLZ0La3cWHm0x3XQErDOb4jk55Y5ODPQJEiUcZec/+ym\n9rOWo0EU2gpXiL3SdQCpd1FhoWKOvAASvm9ZI7Tw2Dr0mVS8vbtFfDNOwdli\nZREiYKSzwEXNWcdhTW5eI6xKBF0nHFtVbct3vS4W+z+7Hqz4bGrtHqHyc8iC\novcbwdrB3Idigs1VV0hBtgE28LGYIfQuF/znAajcc8d3dSBPt+fbwM3RACFl\ncLm7r29sOwepmtJajPpwMr0hzV+w/L1Ruw59oQZkPvExSjcV8NZRaCBQNzKw\nrvGS7qJ0o2VN20SpGTtjOqWsqFq5eV9aGaKLF7ikuDEBPZ53yRLP5Gygfuuj\nxKrfjR97RoM+tDWpVrSbj6lr7kZb21X11VTj2o0A3dj/ZENlep16RDwZw05O\nWKkeffAG+nAP9x5ThedlkbEYEahRyDE+eLrQS+JyxNr14olIdLm+hwkr+5xH\nmcs1\r\n=KQ6j\r\n-----END PGP SIGNATURE-----\r\n",
+    "shasum": "248df860b1e3f7326e61bcbd00c234886b0d6e3b",
+    "tarball": "https://registry.npmjs.org/xml-crypto/-/xml-crypto-1.0.2.tgz",
+    "unpackedSize": 74660
+  },
+  "engines": {
+    "node": ">=0.4.0"
+  },
+  "gitHead": "8d31ffd546b734e89cd1a718447a69315d737fde",
+  "homepage": "https://github.com/yaronn/xml-crypto#readme",
+  "keywords": [
+    "xml",
+    "digital signature",
+    "xml encryption",
+    "x.509 certificate"
+  ],
+  "license": "MIT",
+  "main": "./index.js",
+  "maintainers": [
+    {
+      "email": "bjrmatos@gmail.com",
+      "name": "bjrmatos"
+    },
+    {
+      "email": "alwyn.tan@gmail.com",
+      "name": "lonerifle"
+    },
+    {
+      "email": "yaronn01@gmail.com",
+      "name": "yaron"
+    }
+  ],
+  "name": "xml-crypto",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yaronn/xml-crypto.git"
+  },
+  "scripts": {
+    "test": "nodeunit ./test/canonicalization-unit-tests.js ./test/c14nWithComments-unit-tests.js ./test/signature-unit-tests.js ./test/saml-response-test.js ./test/signature-integration-tests.js ./test/document-test.js ./test/wsfed-metadata-test.js ./test/hmac-tests.js ./test/c14n-non-exclusive-unit-test.js"
+  },
+  "version": "1.0.2"
+}
